@@ -19,3 +19,15 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/2300000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV15 - 音乐频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV15 - 音乐频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvyy/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://i.imgur.com/xDjOUuz.png",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://i.imgur.com/xDjOUuz.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://i.imgur.com/xDjOUuz.png",江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://i.imgur.com/xDjOUuz.png",凤凰卫视中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://i.imgur.com/xDjOUuz.png",北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://i.imgur.com/xDjOUuz.png",辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/2300000/mnf.m3u8
