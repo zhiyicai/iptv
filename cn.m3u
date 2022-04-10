@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1 - 综合频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV1 - 综合频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV2 - 财经频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV2 - 财经频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV3 - 综艺频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV3 - 综艺频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV4 - 中文国际" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV4 - 中文国际
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV5 - 体育频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV5 - 体育频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV6 - 电影频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV6 - 电影频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV7 - 国防军事" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV7 - 国防军事
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV8 - 电视剧" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV8 - 电视剧
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV13 - 新闻频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV13 - 新闻频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV15 - 音乐频道" tvg-logo="https://i.imgur.com/xDjOUuz.png",CCTV15 - 音乐频道
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvyy/1300000/mnf.m3u8
